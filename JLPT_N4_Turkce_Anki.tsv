@@ -1,0 +1,671 @@
+﻿#separator:Tab
+#html:true
+#columns:Front	Back
+踏む	<div><b>Hiragana okunuşu:</b> ふむ</div><div><b>Türkçe:</b> üzerine basmak</div>
+～区	<div><b>Hiragana okunuşu:</b> ～く</div><div><b>Türkçe:</b> bölge, semt, ilçe</div>
+すっと	<div><b>Hiragana okunuşu:</b> すっと</div><div><b>Türkçe:</b> doğrudan, hızla</div>
+盗む	<div><b>Hiragana okunuşu:</b> ぬすむ</div><div><b>Türkçe:</b> çalmak; soymak</div>
+大抵	<div><b>Hiragana okunuşu:</b> たいてい</div><div><b>Türkçe:</b> genellikle, çoğunlukla</div>
+とうとう	<div><b>Hiragana okunuşu:</b> とうとう</div><div><b>Türkçe:</b> sonunda, nihayet</div>
+ガソリン	<div><b>Hiragana okunuşu:</b> がそりん</div><div><b>Türkçe:</b> benzin</div>
+鳴る	<div><b>Hiragana okunuşu:</b> なる</div><div><b>Türkçe:</b> ses çıkarmak, çınlamak/çalmak (kendiliğinden)</div>
+しっかり	<div><b>Hiragana okunuşu:</b> しっかり</div><div><b>Türkçe:</b> sıkıca, sağlam bir şekilde</div>
+生きる	<div><b>Hiragana okunuşu:</b> いきる</div><div><b>Türkçe:</b> yaşamak</div>
+苦い	<div><b>Hiragana okunuşu:</b> にがい</div><div><b>Türkçe:</b> acı</div>
+沸く	<div><b>Hiragana okunuşu:</b> わく</div><div><b>Türkçe:</b> kaynamak, ısınmak</div>
+意見	<div><b>Hiragana okunuşu:</b> いけん</div><div><b>Türkçe:</b> fikir, görüş, düşünce</div>
+やはり; やっぱり	<div><b>Hiragana okunuşu:</b> やはり; やっぱり</div><div><b>Türkçe:</b> tam da düşündüğüm gibi, kesinlikle</div>
+漫画	<div><b>Hiragana okunuşu:</b> まんが</div><div><b>Türkçe:</b> çizgi roman, karikatür</div>
+ステレオ	<div><b>Hiragana okunuşu:</b> すてれお</div><div><b>Türkçe:</b> stereo (ses sistemi)</div>
+医学	<div><b>Hiragana okunuşu:</b> いがく</div><div><b>Türkçe:</b> tıp bilimi</div>
+テキスト	<div><b>Hiragana okunuşu:</b> てきすと</div><div><b>Türkçe:</b> metin; ders kitabı</div>
+～月	<div><b>Hiragana okunuşu:</b> ～つき</div><div><b>Türkçe:</b> ay</div>
+折る	<div><b>Hiragana okunuşu:</b> おる</div><div><b>Türkçe:</b> kırılmak; bükülmek</div>
+～会	<div><b>Hiragana okunuşu:</b> ～かい</div><div><b>Türkçe:</b> toplantı</div>
+うかがう	<div><b>Hiragana okunuşu:</b> うかがう</div><div><b>Türkçe:</b> sormak</div>
+聞こえる	<div><b>Hiragana okunuşu:</b> きこえる</div><div><b>Türkçe:</b> duyulmak, işitilebilir olmak</div>
+僕	<div><b>Hiragana okunuşu:</b> ぼく</div><div><b>Türkçe:</b> ben (erkeklerin eşit veya daha düşük statüdeki kişilere hitap ederken kullandığı zamir)</div>
+必ず	<div><b>Hiragana okunuşu:</b> かならず</div><div><b>Türkçe:</b> elbette, kesinlikle</div>
+壊す	<div><b>Hiragana okunuşu:</b> こわす</div><div><b>Türkçe:</b> kırılmak, bozulmak</div>
+怒る	<div><b>Hiragana okunuşu:</b> おこる</div><div><b>Türkçe:</b> öfkelenmek; azarlamak</div>
+床屋	<div><b>Hiragana okunuşu:</b> とこや</div><div><b>Türkçe:</b> berber (dükkânı)</div>
+オートバイ	<div><b>Hiragana okunuşu:</b> おーとばい</div><div><b>Türkçe:</b> motosiklet</div>
+運動	<div><b>Hiragana okunuşu:</b> うんどうする</div><div><b>Türkçe:</b> egzersiz</div>
+止む	<div><b>Hiragana okunuşu:</b> やむ</div><div><b>Türkçe:</b> durmak, sona ermek</div>
+もし	<div><b>Hiragana okunuşu:</b> もし</div><div><b>Türkçe:</b> eğer</div>
+表	<div><b>Hiragana okunuşu:</b> おもて</div><div><b>Türkçe:</b> yüzey; ön taraf; dış kısım</div>
+大学生	<div><b>Hiragana okunuşu:</b> だいがくせい</div><div><b>Türkçe:</b> üniversite öğrencisi</div>
+運転手	<div><b>Hiragana okunuşu:</b> うんてんしゅ</div><div><b>Türkçe:</b> şoför</div>
+予習	<div><b>Hiragana okunuşu:</b> よしゅう</div><div><b>Türkçe:</b> ders hazırlığı</div>
+心配	<div><b>Hiragana okunuşu:</b> しんぱいする</div><div><b>Türkçe:</b> endişe, kaygı</div>
+別	<div><b>Hiragana okunuşu:</b> べつ</div><div><b>Türkçe:</b> ayrım, farklılık</div>
+非常に	<div><b>Hiragana okunuşu:</b> ひじょうに</div><div><b>Türkçe:</b> son derece; çok</div>
+お宅	<div><b>Hiragana okunuşu:</b> おたく</div><div><b>Türkçe:</b> ev (başkasına ait veya nazik ifade)</div>
+柔らかい	<div><b>Hiragana okunuşu:</b> やわらかい</div><div><b>Türkçe:</b> yumuşak, narin</div>
+拾う	<div><b>Hiragana okunuşu:</b> ひろう</div><div><b>Türkçe:</b> yerden almak, bulmak</div>
+～ございます	<div><b>Hiragana okunuşu:</b> ～ございます</div><div><b>Türkçe:</b> bulunmak, var olmak (nazik ifade)</div>
+気	<div><b>Hiragana okunuşu:</b> き</div><div><b>Türkçe:</b> ruh hali, keyif</div>
+比べる	<div><b>Hiragana okunuşu:</b> くらべる</div><div><b>Türkçe:</b> karşılaştırmak</div>
+ほとんど	<div><b>Hiragana okunuşu:</b> ほとんど</div><div><b>Türkçe:</b> çoğunlukla, neredeyse</div>
+つもり	<div><b>Hiragana okunuşu:</b> つもり</div><div><b>Türkçe:</b> niyet, plan</div>
+郊外	<div><b>Hiragana okunuşu:</b> こうがい</div><div><b>Türkçe:</b> şehir dışı, banliyö</div>
+だめ	<div><b>Hiragana okunuşu:</b> だめ</div><div><b>Türkçe:</b> işe yaramaz, kötü, umutsuz</div>
+売り場	<div><b>Hiragana okunuşu:</b> うりば</div><div><b>Türkçe:</b> satış yeri</div>
+正月	<div><b>Hiragana okunuşu:</b> しょうがつ</div><div><b>Türkçe:</b> Yeni Yıl, yılbaşı</div>
+規則	<div><b>Hiragana okunuşu:</b> きそく</div><div><b>Türkçe:</b> kural, düzenleme</div>
+うん	<div><b>Hiragana okunuşu:</b> うん</div><div><b>Türkçe:</b> evet (gayriresmî), tamam</div>
+発音	<div><b>Hiragana okunuşu:</b> はつおん</div><div><b>Türkçe:</b> telaffuz</div>
+焼く	<div><b>Hiragana okunuşu:</b> やく</div><div><b>Türkçe:</b> fırınlamak, ızgara yapmak</div>
+屋上	<div><b>Hiragana okunuşu:</b> おくじょう</div><div><b>Türkçe:</b> çatı katı, dam</div>
+失礼	<div><b>Hiragana okunuşu:</b> しつれい</div><div><b>Türkçe:</b> saygısızlık, kabalık; Affedersiniz</div>
+ごみ	<div><b>Hiragana okunuşu:</b> ごみ</div><div><b>Türkçe:</b> çöp</div>
+アフリカ	<div><b>Hiragana okunuşu:</b> あふりか</div><div><b>Türkçe:</b> Afrika</div>
+点	<div><b>Hiragana okunuşu:</b> てん</div><div><b>Türkçe:</b> işaret, puan, not, nokta</div>
+一生懸命	<div><b>Hiragana okunuşu:</b> いっしょうけんめい</div><div><b>Türkçe:</b> büyük çabayla; çok sıkı çalışarak</div>
+今度	<div><b>Hiragana okunuşu:</b> こんど</div><div><b>Türkçe:</b> şimdi, bu sefer, yakın gelecek, bugünlerde, bir dahaki sefere</div>
+機会	<div><b>Hiragana okunuşu:</b> きかい</div><div><b>Türkçe:</b> şans, fırsat</div>
+建てる	<div><b>Hiragana okunuşu:</b> たてる</div><div><b>Türkçe:</b> inşa etmek</div>
+複雑	<div><b>Hiragana okunuşu:</b> ふくざつ</div><div><b>Türkçe:</b> karmaşıklık, karışıklık</div>
+彼	<div><b>Hiragana okunuşu:</b> かれ</div><div><b>Türkçe:</b> o (erkek), erkek arkadaş</div>
+いらっしゃる	<div><b>Hiragana okunuşu:</b> いらっしゃる</div><div><b>Türkçe:</b> gitmek, gelmek veya bulunmak fiillerinin saygılı biçimi</div>
+布団	<div><b>Hiragana okunuşu:</b> ふとん</div><div><b>Türkçe:</b> futon (Japon yatağı)</div>
+大事	<div><b>Hiragana okunuşu:</b> だいじ</div><div><b>Türkçe:</b> önemli, değerli, ciddi mesele</div>
+贈り物	<div><b>Hiragana okunuşu:</b> おくりもの</div><div><b>Türkçe:</b> hediye</div>
+泥棒	<div><b>Hiragana okunuşu:</b> どろぼう</div><div><b>Türkçe:</b> hırsız</div>
+～製	<div><b>Hiragana okunuşu:</b> ～せい</div><div><b>Türkçe:</b> ~ yapımı / ~ malı</div>
+注意	<div><b>Hiragana okunuşu:</b> ちゅうい</div><div><b>Türkçe:</b> dikkat, özen</div>
+台風	<div><b>Hiragana okunuşu:</b> たいふう</div><div><b>Türkçe:</b> tayfun</div>
+日	<div><b>Hiragana okunuşu:</b> ひ</div><div><b>Türkçe:</b> güneş, gün ışığı, gün</div>
+～軒	<div><b>Hiragana okunuşu:</b> ～けん</div><div><b>Türkçe:</b> evler için sayma sözcüğü</div>
+そう	<div><b>Hiragana okunuşu:</b> そう</div><div><b>Türkçe:</b> gerçekten mi, öyle mi; evet, doğru</div>
+通る	<div><b>Hiragana okunuşu:</b> とおる</div><div><b>Türkçe:</b> yanından geçmek, içinden geçmek</div>
+過ぎる	<div><b>Hiragana okunuşu:</b> すぎる</div><div><b>Türkçe:</b> aşmak, ötesine geçmek</div>
+レポート; リポート	<div><b>Hiragana okunuşu:</b> れぽーと; りぽーと</div><div><b>Türkçe:</b> rapor</div>
+葉	<div><b>Hiragana okunuşu:</b> は</div><div><b>Türkçe:</b> yaprak</div>
+必要	<div><b>Hiragana okunuşu:</b> ひつよう</div><div><b>Türkçe:</b> gerekli</div>
+課長	<div><b>Hiragana okunuşu:</b> かちょう</div><div><b>Türkçe:</b> bölüm müdürü</div>
+地震	<div><b>Hiragana okunuşu:</b> じしん</div><div><b>Türkçe:</b> deprem</div>
+すると	<div><b>Hiragana okunuşu:</b> すると</div><div><b>Türkçe:</b> ve, sonra</div>
+止める	<div><b>Hiragana okunuşu:</b> やめる</div><div><b>Türkçe:</b> bitmek, durmak</div>
+ガラス	<div><b>Hiragana okunuşu:</b> がらす</div><div><b>Türkçe:</b> cam, pencere camı</div>
+～学部	<div><b>Hiragana okunuşu:</b> ～がくぶ</div><div><b>Türkçe:</b> üniversite bölümü</div>
+厳しい	<div><b>Hiragana okunuşu:</b> きびしい</div><div><b>Türkçe:</b> zorlu; sıkı; katı</div>
+エスカレーター	<div><b>Hiragana okunuşu:</b> えすかれーたー</div><div><b>Türkçe:</b> yürüyen merdiven</div>
+人口	<div><b>Hiragana okunuşu:</b> じんこう</div><div><b>Türkçe:</b> nüfus</div>
+月	<div><b>Hiragana okunuşu:</b> つき</div><div><b>Türkçe:</b> ay</div>
+絹	<div><b>Hiragana okunuşu:</b> きぬ</div><div><b>Türkçe:</b> ipek</div>
+ちっとも	<div><b>Hiragana okunuşu:</b> ちっとも</div><div><b>Türkçe:</b> hiç de (olumsuz fiille kullanılır)</div>
+深い	<div><b>Hiragana okunuşu:</b> ふかい</div><div><b>Türkçe:</b> derin, köklü</div>
+壊れる	<div><b>Hiragana okunuşu:</b> こわれる</div><div><b>Türkçe:</b> kırılmak</div>
+揺れる	<div><b>Hiragana okunuşu:</b> ゆれる</div><div><b>Türkçe:</b> sallanmak, sarsılmak</div>
+落る	<div><b>Hiragana okunuşu:</b> おちる</div><div><b>Türkçe:</b> düşmek</div>
+できるだけ	<div><b>Hiragana okunuşu:</b> できるだけ</div><div><b>Türkçe:</b> mümkünse, olabildiğince</div>
+悲しい	<div><b>Hiragana okunuşu:</b> かなしい</div><div><b>Türkçe:</b> üzgün, kederli</div>
+中学校	<div><b>Hiragana okunuşu:</b> ちゅうがっこう</div><div><b>Türkçe:</b> ortaokul öğrencisi</div>
+ガス	<div><b>Hiragana okunuşu:</b> がす</div><div><b>Türkçe:</b> gaz</div>
+祈る	<div><b>Hiragana okunuşu:</b> いのる</div><div><b>Türkçe:</b> dua etmek; dilemek</div>
+盛ん	<div><b>Hiragana okunuşu:</b> さかん</div><div><b>Türkçe:</b> refah içinde, hareketli, gelişen</div>
+アルバイト	<div><b>Hiragana okunuşu:</b> あるばいと</div><div><b>Türkçe:</b> yarı zamanlı iş</div>
+起こす	<div><b>Hiragana okunuşu:</b> おこす</div><div><b>Türkçe:</b> uyandırmak</div>
+致す	<div><b>Hiragana okunuşu:</b> いたす</div><div><b>Türkçe:</b> yapmak fiili için aşırı alçakgönüllü ifade</div>
+噛む	<div><b>Hiragana okunuşu:</b> かむ</div><div><b>Türkçe:</b> ısırmak, çiğnemek</div>
+赤ちゃん	<div><b>Hiragana okunuşu:</b> あかちゃん</div><div><b>Türkçe:</b> bebek</div>
+浅い	<div><b>Hiragana okunuşu:</b> あさい</div><div><b>Türkçe:</b> sığ, yüzeysel</div>
+嘘	<div><b>Hiragana okunuşu:</b> うそ</div><div><b>Türkçe:</b> yalan</div>
+小説	<div><b>Hiragana okunuşu:</b> しょうせつ</div><div><b>Türkçe:</b> roman</div>
+親	<div><b>Hiragana okunuşu:</b> おや</div><div><b>Türkçe:</b> ebeveyn</div>
+それに	<div><b>Hiragana okunuşu:</b> それに</div><div><b>Türkçe:</b> üstelik; ayrıca</div>
+西洋	<div><b>Hiragana okunuşu:</b> せいよう</div><div><b>Türkçe:</b> Batı, Batılı ülkeler</div>
+思う	<div><b>Hiragana okunuşu:</b> おもう</div><div><b>Türkçe:</b> düşünmek, hissetmek</div>
+パート (タイム)	<div><b>Hiragana okunuşu:</b> ぱーと (たいむ)</div><div><b>Türkçe:</b> yarı zamanlı çalışma (özellikle kadın çalışanlar için)</div>
+時代	<div><b>Hiragana okunuşu:</b> じだい</div><div><b>Türkçe:</b> çağ, dönem, devir</div>
+申し上げる	<div><b>Hiragana okunuşu:</b> もうしあげる</div><div><b>Türkçe:</b> (alçakgönüllü biçimde) söylemek, ifade etmek</div>
+～式	<div><b>Hiragana okunuşu:</b> ～しき</div><div><b>Türkçe:</b> ~ töreni; ~ tarzı</div>
+出席	<div><b>Hiragana okunuşu:</b> しゅっせきする</div><div><b>Türkçe:</b> katılım</div>
+～家	<div><b>Hiragana okunuşu:</b> ～か</div><div><b>Türkçe:</b> ~ konusunda uzmanlaşmış kişi</div>
+迎える	<div><b>Hiragana okunuşu:</b> むかえる</div><div><b>Türkçe:</b> karşılamak; selamlamak</div>
+触る	<div><b>Hiragana okunuşu:</b> さわる</div><div><b>Türkçe:</b> dokunmak, hissetmek</div>
+建て	<div><b>Hiragana okunuşu:</b> ～だて</div><div><b>Türkçe:</b> ~ katlı, müstakil konut</div>
+社長	<div><b>Hiragana okunuşu:</b> しゃちょう</div><div><b>Türkçe:</b> şirket başkanı</div>
+動物園	<div><b>Hiragana okunuşu:</b> どうぶつえん</div><div><b>Türkçe:</b> hayvanat bahçesi</div>
+捕まえる	<div><b>Hiragana okunuşu:</b> つかまえる</div><div><b>Türkçe:</b> yakalamak, tutuklamak</div>
+季節	<div><b>Hiragana okunuşu:</b> きせつ</div><div><b>Türkçe:</b> mevsim (hava durumu bağlamında)</div>
+寄る	<div><b>Hiragana okunuşu:</b> よる</div><div><b>Türkçe:</b> uğramak</div>
+決まる	<div><b>Hiragana okunuşu:</b> きまる</div><div><b>Türkçe:</b> ayarlanmak; sabitlenmek</div>
+開く	<div><b>Hiragana okunuşu:</b> ひらく</div><div><b>Türkçe:</b> açmak; (etkinlik) düzenlemek</div>
+逃げる	<div><b>Hiragana okunuşu:</b> にげる</div><div><b>Türkçe:</b> kaçmak</div>
+だから	<div><b>Hiragana okunuşu:</b> だから</div><div><b>Türkçe:</b> bu yüzden; dolayısıyla</div>
+残念	<div><b>Hiragana okunuşu:</b> ざんねん</div><div><b>Türkçe:</b> pişmanlık; üzücü</div>
+畳	<div><b>Hiragana okunuşu:</b> たたみ</div><div><b>Türkçe:</b> tatami (Japon hasırı)</div>
+丁寧	<div><b>Hiragana okunuşu:</b> ていねい</div><div><b>Türkçe:</b> nazik, kibar, özenli</div>
+地理	<div><b>Hiragana okunuşu:</b> ちり</div><div><b>Türkçe:</b> coğrafya</div>
+さっき	<div><b>Hiragana okunuşu:</b> さっき</div><div><b>Türkçe:</b> biraz önce</div>
+怖い	<div><b>Hiragana okunuşu:</b> こわい</div><div><b>Türkçe:</b> korkutucu, ürkütücü</div>
+包む	<div><b>Hiragana okunuşu:</b> つつむ</div><div><b>Türkçe:</b> sarmak, örtmek</div>
+なるべく	<div><b>Hiragana okunuşu:</b> なるべく</div><div><b>Türkçe:</b> mümkünse, olabildiğince</div>
+無理	<div><b>Hiragana okunuşu:</b> むり</div><div><b>Türkçe:</b> mantıksız, imkânsız</div>
+サンドイッチ	<div><b>Hiragana okunuşu:</b> さんどいっち</div><div><b>Türkçe:</b> sandviç</div>
+会議室	<div><b>Hiragana okunuşu:</b> かいぎしつ</div><div><b>Türkçe:</b> toplantı odası</div>
+品物	<div><b>Hiragana okunuşu:</b> しなもの</div><div><b>Türkçe:</b> eşya, ürün</div>
+人形	<div><b>Hiragana okunuşu:</b> にんぎょう</div><div><b>Türkçe:</b> oyuncak bebek, figür</div>
+利用	<div><b>Hiragana okunuşu:</b> りよう</div><div><b>Türkçe:</b> kullanım, yararlanma</div>
+飾る	<div><b>Hiragana okunuşu:</b> かざる</div><div><b>Türkçe:</b> süslemek, donatmak</div>
+止める	<div><b>Hiragana okunuşu:</b> とめる</div><div><b>Türkçe:</b> durdurmak</div>
+恥ずかしい	<div><b>Hiragana okunuşu:</b> はずかしい</div><div><b>Türkçe:</b> utanmış, mahcup</div>
+いくら～ても	<div><b>Hiragana okunuşu:</b> いくら～ても</div><div><b>Türkçe:</b> ne kadar ~ yapılırsa yapılsın</div>
+用事	<div><b>Hiragana okunuşu:</b> ようじ</div><div><b>Türkçe:</b> yapılacak işler; görevler; ayak işleri</div>
+ビル	<div><b>Hiragana okunuşu:</b> びる</div><div><b>Türkçe:</b> (kısaltma) bina</div>
+けんかする	<div><b>Hiragana okunuşu:</b> けんかする</div><div><b>Türkçe:</b> kavga etmek</div>
+頑張る	<div><b>Hiragana okunuşu:</b> がんばる</div><div><b>Türkçe:</b> elinden gelenin en iyisini yapmak, çabalamak, ısrarla sürdürmek</div>
+投げる	<div><b>Hiragana okunuşu:</b> なげる</div><div><b>Türkçe:</b> fırlatmak, atmak</div>
+故障	<div><b>Hiragana okunuşu:</b> こしょうする</div><div><b>Türkçe:</b> arıza, bozulma</div>
+力	<div><b>Hiragana okunuşu:</b> ちから</div><div><b>Türkçe:</b> güç, kuvvet</div>
+受ける	<div><b>Hiragana okunuşu:</b> うける</div><div><b>Türkçe:</b> (sınava, mülakata vb.) girmek; almak</div>
+気分	<div><b>Hiragana okunuşu:</b> きぶん</div><div><b>Türkçe:</b> his, ruh hali</div>
+間違える	<div><b>Hiragana okunuşu:</b> まちがえる</div><div><b>Türkçe:</b> hata yapmak</div>
+そんな	<div><b>Hiragana okunuşu:</b> そんな</div><div><b>Türkçe:</b> böyle, öyle, o türden</div>
+星	<div><b>Hiragana okunuşu:</b> ほし</div><div><b>Türkçe:</b> yıldız</div>
+場合	<div><b>Hiragana okunuşu:</b> ばあい</div><div><b>Türkçe:</b> durum, vaziyet</div>
+やっと	<div><b>Hiragana okunuşu:</b> やっと</div><div><b>Türkçe:</b> sonunda, nihayet</div>
+足りる	<div><b>Hiragana okunuşu:</b> たりる</div><div><b>Türkçe:</b> yeterli olmak; yetmek</div>
+行う	<div><b>Hiragana okunuşu:</b> おこなう</div><div><b>Türkçe:</b> gerçekleştirmek; yürütmek (genellikle yazılı dilde)</div>
+ぶどう	<div><b>Hiragana okunuşu:</b> ぶどう</div><div><b>Türkçe:</b> üzüm</div>
+無くなる	<div><b>Hiragana okunuşu:</b> なくなる</div><div><b>Türkçe:</b> kaybolmak, ortadan kaybolmak</div>
+準備	<div><b>Hiragana okunuşu:</b> じゅんびする</div><div><b>Türkçe:</b> hazırlamak</div>
+世界	<div><b>Hiragana okunuşu:</b> せかい</div><div><b>Türkçe:</b> dünya</div>
+住所	<div><b>Hiragana okunuşu:</b> じゅうしょ</div><div><b>Türkçe:</b> adres; ikametgâh</div>
+再来月	<div><b>Hiragana okunuşu:</b> さらいげつ</div><div><b>Türkçe:</b> gelecek aydan sonraki ay</div>
+林	<div><b>Hiragana okunuşu:</b> はやし</div><div><b>Türkçe:</b> orman, koruluk</div>
+倍	<div><b>Hiragana okunuşu:</b> ばい</div><div><b>Türkçe:</b> iki katı</div>
+痩せる	<div><b>Hiragana okunuşu:</b> やせる</div><div><b>Türkçe:</b> kilo vermek</div>
+線	<div><b>Hiragana okunuşu:</b> せん</div><div><b>Türkçe:</b> hat, tel</div>
+戦争	<div><b>Hiragana okunuşu:</b> せんそう</div><div><b>Türkçe:</b> savaş</div>
+決める	<div><b>Hiragana okunuşu:</b> きめる</div><div><b>Türkçe:</b> karar vermek (geçişli fiil)</div>
+調べる	<div><b>Hiragana okunuşu:</b> しらべる</div><div><b>Türkçe:</b> kontrol etmek; araştırmak; sormak; aramak</div>
+寝坊	<div><b>Hiragana okunuşu:</b> ねぼう</div><div><b>Türkçe:</b> geç uyanmak</div>
+パパ	<div><b>Hiragana okunuşu:</b> ぱぱ</div><div><b>Türkçe:</b> baba, babacığım</div>
+光る	<div><b>Hiragana okunuşu:</b> ひかる</div><div><b>Türkçe:</b> parlamak, ışıldamak</div>
+夫	<div><b>Hiragana okunuşu:</b> おっと</div><div><b>Türkçe:</b> koca, eş</div>
+雲	<div><b>Hiragana okunuşu:</b> くも</div><div><b>Türkçe:</b> bulut</div>
+坂	<div><b>Hiragana okunuşu:</b> さか</div><div><b>Türkçe:</b> yamaç, tepe</div>
+～(て) しまう	<div><b>Hiragana okunuşu:</b> ～(て) しまう</div><div><b>Türkçe:</b> sonunda ~ olmak</div>
+飛行場	<div><b>Hiragana okunuşu:</b> ひこうじょう</div><div><b>Türkçe:</b> havaalanı</div>
+柔道	<div><b>Hiragana okunuşu:</b> じゅうどう</div><div><b>Türkçe:</b> judo</div>
+決して	<div><b>Hiragana okunuşu:</b> けっして</div><div><b>Türkçe:</b> asla, hiçbir zaman</div>
+事務所	<div><b>Hiragana okunuşu:</b> じむしょ</div><div><b>Türkçe:</b> ofis, büro</div>
+連絡	<div><b>Hiragana okunuşu:</b> れんらく</div><div><b>Türkçe:</b> iletişim, temas, bağlantı</div>
+小学校	<div><b>Hiragana okunuşu:</b> しょうがっこう</div><div><b>Türkçe:</b> ilkokul</div>
+客	<div><b>Hiragana okunuşu:</b> きゃく</div><div><b>Türkçe:</b> misafir, müşteri</div>
+昔	<div><b>Hiragana okunuşu:</b> むかし</div><div><b>Türkçe:</b> eski günler; geçmiş</div>
+美しい	<div><b>Hiragana okunuşu:</b> うつくしい</div><div><b>Türkçe:</b> güzel, hoş</div>
+捨てる	<div><b>Hiragana okunuşu:</b> すてる</div><div><b>Türkçe:</b> atmak (çöp vb.), elden çıkarmak</div>
+なさる	<div><b>Hiragana okunuşu:</b> なさる</div><div><b>Türkçe:</b> yapmak fiilinin saygılı biçimi</div>
+事	<div><b>Hiragana okunuşu:</b> こと</div><div><b>Türkçe:</b> şeyler, konular, gerçekler</div>
+どんどん	<div><b>Hiragana okunuşu:</b> どんどん</div><div><b>Türkçe:</b> hızlı ve istikrarlı biçimde; tempolu</div>
+試合	<div><b>Hiragana okunuşu:</b> しあい</div><div><b>Türkçe:</b> maç, oyun, müsabaka</div>
+適当	<div><b>Hiragana okunuşu:</b> てきとう</div><div><b>Türkçe:</b> uygunluk</div>
+素晴らしい	<div><b>Hiragana okunuşu:</b> すばらしい</div><div><b>Türkçe:</b> harika; muhteşem</div>
+美術館	<div><b>Hiragana okunuşu:</b> びじゅつかん</div><div><b>Türkçe:</b> sanat galerisi, sanat müzesi</div>
+文法	<div><b>Hiragana okunuşu:</b> ぶんぽう</div><div><b>Türkçe:</b> dil bilgisi</div>
+終わり	<div><b>Hiragana okunuşu:</b> おわり</div><div><b>Türkçe:</b> son, bitiş</div>
+壁	<div><b>Hiragana okunuşu:</b> かべ</div><div><b>Türkçe:</b> duvar</div>
+一度	<div><b>Hiragana okunuşu:</b> いちど</div><div><b>Türkçe:</b> bir kez, bir defa</div>
+お礼	<div><b>Hiragana okunuşu:</b> おれい</div><div><b>Türkçe:</b> minnettarlık ifadesi; teşekkür; teşekkür hediyesi; selamlama</div>
+親切	<div><b>Hiragana okunuşu:</b> しんせつ</div><div><b>Türkçe:</b> nezaket, iyilik</div>
+知らせる	<div><b>Hiragana okunuşu:</b> しらせる</div><div><b>Türkçe:</b> bildirmek, haber vermek</div>
+歯医者	<div><b>Hiragana okunuşu:</b> はいしゃ</div><div><b>Türkçe:</b> diş hekimi</div>
+熱心	<div><b>Hiragana okunuşu:</b> ねっしん</div><div><b>Türkçe:</b> coşku, heves</div>
+始める	<div><b>Hiragana okunuşu:</b> はじめる</div><div><b>Türkçe:</b> başlamak</div>
+もらう	<div><b>Hiragana okunuşu:</b> もらう</div><div><b>Türkçe:</b> almak</div>
+泣く	<div><b>Hiragana okunuşu:</b> なく</div><div><b>Türkçe:</b> ağlamak</div>
+治る	<div><b>Hiragana okunuşu:</b> なおる</div><div><b>Türkçe:</b> iyileşmek; hastalıktan kurtulmak</div>
+熱	<div><b>Hiragana okunuşu:</b> ねつ</div><div><b>Türkçe:</b> ateş (vücut ısısı)</div>
+お祭り	<div><b>Hiragana okunuşu:</b> おまつり</div><div><b>Türkçe:</b> festival</div>
+水道	<div><b>Hiragana okunuşu:</b> すいどう</div><div><b>Türkçe:</b> su şebekesi, su hattı</div>
+匂い	<div><b>Hiragana okunuşu:</b> におい</div><div><b>Türkçe:</b> koku</div>
+ベル	<div><b>Hiragana okunuşu:</b> べる</div><div><b>Türkçe:</b> zil</div>
+赤ん坊	<div><b>Hiragana okunuşu:</b> あかんぼう</div><div><b>Türkçe:</b> bebek</div>
+おかしい	<div><b>Hiragana okunuşu:</b> おかしい</div><div><b>Türkçe:</b> tuhaf; acayip; komik</div>
+事故	<div><b>Hiragana okunuşu:</b> じこ</div><div><b>Türkçe:</b> kaza</div>
+変	<div><b>Hiragana okunuşu:</b> へん</div><div><b>Türkçe:</b> tuhaf, acayip</div>
+辞典	<div><b>Hiragana okunuşu:</b> じてん</div><div><b>Türkçe:</b> ansiklopedi, başvuru kitabı</div>
+残る	<div><b>Hiragana okunuşu:</b> のこる</div><div><b>Türkçe:</b> geride kalmak; artmak</div>
+立てる	<div><b>Hiragana okunuşu:</b> たてる</div><div><b>Türkçe:</b> dikmek, ayağa kaldırmak</div>
+くれる	<div><b>Hiragana okunuşu:</b> くれる</div><div><b>Türkçe:</b> vermek, birisi için bir şey yapmak</div>
+～員	<div><b>Hiragana okunuşu:</b> ～いん</div><div><b>Türkçe:</b> ~ üyesi</div>
+原因	<div><b>Hiragana okunuşu:</b> げんいん</div><div><b>Türkçe:</b> neden, köken, kaynak</div>
+驚く	<div><b>Hiragana okunuşu:</b> おどろく</div><div><b>Türkçe:</b> şaşırmak, hayrete düşmek</div>
+いただく	<div><b>Hiragana okunuşu:</b> 頂く</div><div><b>Türkçe:</b> yemek ve içmek için alçakgönüllü ifade; almak fiilinin alçakgönüllü biçimi</div>
+祖母	<div><b>Hiragana okunuşu:</b> そぼ</div><div><b>Türkçe:</b> büyükanne</div>
+場所	<div><b>Hiragana okunuşu:</b> ばしょ</div><div><b>Türkçe:</b> yer, konum</div>
+答	<div><b>Hiragana okunuşu:</b> こたえ</div><div><b>Türkçe:</b> cevap, yanıt</div>
+もちろん	<div><b>Hiragana okunuşu:</b> もちろん</div><div><b>Türkçe:</b> elbette, kuşkusuz</div>
+漬ける	<div><b>Hiragana okunuşu:</b> つける</div><div><b>Türkçe:</b> ıslatmak, nemlendirmek, turşu kurmak</div>
+受付	<div><b>Hiragana okunuşu:</b> うけつけ</div><div><b>Türkçe:</b> resepsiyon, danışma masası</div>
+内	<div><b>Hiragana okunuşu:</b> うち</div><div><b>Türkçe:</b> içinde, dahilinde</div>
+スクリーン	<div><b>Hiragana okunuşu:</b> すくりーん</div><div><b>Türkçe:</b> ekran</div>
+増える	<div><b>Hiragana okunuşu:</b> ふえる</div><div><b>Türkçe:</b> artmak, çoğalmak</div>
+または	<div><b>Hiragana okunuşu:</b> または</div><div><b>Türkçe:</b> veya, aksi takdirde</div>
+けがする	<div><b>Hiragana okunuşu:</b> けがする</div><div><b>Türkçe:</b> yaralanma, yara</div>
+以下	<div><b>Hiragana okunuşu:</b> いか</div><div><b>Türkçe:</b> ~den az, ~in altında</div>
+選ぶ	<div><b>Hiragana okunuşu:</b> えらぶ</div><div><b>Türkçe:</b> seçmek</div>
+～ばかり	<div><b>Hiragana okunuşu:</b> ～ばかり</div><div><b>Türkçe:</b> ~ yapmış olmak; yalnızca</div>
+心	<div><b>Hiragana okunuşu:</b> こころ</div><div><b>Türkçe:</b> kalp, zihin</div>
+～だす	<div><b>Hiragana okunuşu:</b> ～だす</div><div><b>Türkçe:</b> ~ yapmaya başlamak</div>
+サラダ	<div><b>Hiragana okunuşu:</b> さらだ</div><div><b>Türkçe:</b> salata</div>
+届ける	<div><b>Hiragana okunuşu:</b> とどける</div><div><b>Türkçe:</b> teslim etmek, ulaştırmak</div>
+挨拶	<div><b>Hiragana okunuşu:</b> あいさつする</div><div><b>Türkçe:</b> selamlaşma, selamlama</div>
+景色	<div><b>Hiragana okunuşu:</b> けしき</div><div><b>Türkçe:</b> manzara</div>
+確か	<div><b>Hiragana okunuşu:</b> たしか</div><div><b>Türkçe:</b> yanılmıyorsam; kesin, belirli</div>
+ステーキ	<div><b>Hiragana okunuşu:</b> すてーき</div><div><b>Türkçe:</b> biftek</div>
+食料品	<div><b>Hiragana okunuşu:</b> しょくりょうひん</div><div><b>Türkçe:</b> gıda maddesi, erzak</div>
+森	<div><b>Hiragana okunuşu:</b> もり</div><div><b>Türkçe:</b> orman</div>
+以内	<div><b>Hiragana okunuşu:</b> いない</div><div><b>Türkçe:</b> içinde; en fazla</div>
+予定	<div><b>Hiragana okunuşu:</b> よてい</div><div><b>Türkçe:</b> planlar, düzenleme, program</div>
+オーバー	<div><b>Hiragana okunuşu:</b> おーばー</div><div><b>Türkçe:</b> palto; aşırı, abartı</div>
+乾く	<div><b>Hiragana okunuşu:</b> かわく</div><div><b>Türkçe:</b> kurumak</div>
+石	<div><b>Hiragana okunuşu:</b> いし</div><div><b>Türkçe:</b> taş</div>
+思い出す	<div><b>Hiragana okunuşu:</b> おもいだす</div><div><b>Türkçe:</b> hatırlamak, anımsamak</div>
+踊る	<div><b>Hiragana okunuşu:</b> おどる</div><div><b>Türkçe:</b> dans etmek</div>
+細かい	<div><b>Hiragana okunuşu:</b> こまかい</div><div><b>Türkçe:</b> küçük; ince, ufak</div>
+塗る	<div><b>Hiragana okunuşu:</b> ぬる</div><div><b>Türkçe:</b> boyamak, sıva yapmak</div>
+ご主人	<div><b>Hiragana okunuşu:</b> ごしゅじん</div><div><b>Türkçe:</b> eşi (başkasının)</div>
+珍しい	<div><b>Hiragana okunuşu:</b> めずらしい</div><div><b>Türkçe:</b> sıra dışı, nadir</div>
+用	<div><b>Hiragana okunuşu:</b> よう</div><div><b>Türkçe:</b> iş, görev, halledilmesi gereken mesele</div>
+公務員	<div><b>Hiragana okunuşu:</b> こうむいん</div><div><b>Türkçe:</b> devlet memuru, kamu görevlisi</div>
+お嬢さん	<div><b>Hiragana okunuşu:</b> おじょうさん</div><div><b>Türkçe:</b> (birinin) kızı (nazik ifade)</div>
+用意	<div><b>Hiragana okunuşu:</b> ようい</div><div><b>Türkçe:</b> hazırlık</div>
+探す	<div><b>Hiragana okunuşu:</b> さがす</div><div><b>Türkçe:</b> aramak, bulmaya çalışmak</div>
+形	<div><b>Hiragana okunuşu:</b> かたち</div><div><b>Türkçe:</b> şekil</div>
+運転	<div><b>Hiragana okunuşu:</b> うんてんする</div><div><b>Türkçe:</b> araba kullanma</div>
+すっかり	<div><b>Hiragana okunuşu:</b> すっかり</div><div><b>Türkçe:</b> tamamı, bütünüyle</div>
+アナウンサー	<div><b>Hiragana okunuşu:</b> あなうんさー</div><div><b>Türkçe:</b> spiker, sunucu</div>
+お土産	<div><b>Hiragana okunuşu:</b> おみやげ</div><div><b>Türkçe:</b> hediyelik eşya</div>
+消しゴム	<div><b>Hiragana okunuşu:</b> けしごむ</div><div><b>Türkçe:</b> silgi</div>
+旅館	<div><b>Hiragana okunuşu:</b> りょかん</div><div><b>Türkçe:</b> geleneksel Japon hanı (ryokan)</div>
+海岸	<div><b>Hiragana okunuşu:</b> かいがん</div><div><b>Türkçe:</b> sahil, kıyı</div>
+寂しい	<div><b>Hiragana okunuşu:</b> さびしい</div><div><b>Türkçe:</b> yalnız, kimsesiz</div>
+火	<div><b>Hiragana okunuşu:</b> ひ</div><div><b>Türkçe:</b> yangın, ateş</div>
+育てる	<div><b>Hiragana okunuşu:</b> そだてる</div><div><b>Türkçe:</b> yetiştirmek, büyütmek</div>
+味噌	<div><b>Hiragana okunuşu:</b> みそ</div><div><b>Türkçe:</b> miso (soya fasulyesi ezmesi)</div>
+お祝い	<div><b>Hiragana okunuşu:</b> おいわい</div><div><b>Türkçe:</b> tebrik, kutlama</div>
+乗り物	<div><b>Hiragana okunuşu:</b> のりもの</div><div><b>Türkçe:</b> taşıt, araç</div>
+案内	<div><b>Hiragana okunuşu:</b> あんないする</div><div><b>Türkçe:</b> bilgi, rehberlik</div>
+通う	<div><b>Hiragana okunuşu:</b> かよう</div><div><b>Türkçe:</b> gidip gelmek; (işe/okula) gidip gelmek</div>
+連れる	<div><b>Hiragana okunuşu:</b> つれる</div><div><b>Türkçe:</b> birine eşlik etmek, birini götürmek</div>
+技術	<div><b>Hiragana okunuşu:</b> ぎじゅつ</div><div><b>Türkçe:</b> teknik, teknoloji, beceri</div>
+小鳥	<div><b>Hiragana okunuşu:</b> ことり</div><div><b>Türkçe:</b> küçük kuş</div>
+下宿	<div><b>Hiragana okunuşu:</b> げしゅく</div><div><b>Türkçe:</b> konaklama yeri, pansiyon</div>
+ジャム	<div><b>Hiragana okunuşu:</b> じゃむ</div><div><b>Türkçe:</b> reçel</div>
+招待	<div><b>Hiragana okunuşu:</b> しょうたいする</div><div><b>Türkçe:</b> davet</div>
+鏡	<div><b>Hiragana okunuşu:</b> かがみ</div><div><b>Türkçe:</b> ayna</div>
+はず	<div><b>Hiragana okunuşu:</b> はず</div><div><b>Türkçe:</b> öyle olması gerekir, muhtemelen öyledir</div>
+法律	<div><b>Hiragana okunuşu:</b> ほうりつ</div><div><b>Türkçe:</b> yasa, hukuk</div>
+進む	<div><b>Hiragana okunuşu:</b> すすむ</div><div><b>Türkçe:</b> ilerlemek</div>
+楽む	<div><b>Hiragana okunuşu:</b> たのしむ</div><div><b>Türkçe:</b> keyfini çıkarmak, eğlenmek</div>
+貿易	<div><b>Hiragana okunuşu:</b> ぼうえき</div><div><b>Türkçe:</b> ticaret</div>
+反対	<div><b>Hiragana okunuşu:</b> はんたい</div><div><b>Türkçe:</b> karşı çıkmak, muhalefet, direniş</div>
+おる	<div><b>Hiragana okunuşu:</b> おる</div><div><b>Türkçe:</b> いる için alçakgönüllü ifade</div>
+申す	<div><b>Hiragana okunuşu:</b> もうす</div><div><b>Türkçe:</b> 言う için alçakgönüllü ifade</div>
+試験	<div><b>Hiragana okunuşu:</b> しけん</div><div><b>Türkçe:</b> sınav</div>
+真面目	<div><b>Hiragana okunuşu:</b> まじめ</div><div><b>Türkçe:</b> çalışkan, ciddi</div>
+ごらんになる	<div><b>Hiragana okunuşu:</b> ごらんになる</div><div><b>Türkçe:</b> みる için saygılı ifade</div>
+店員	<div><b>Hiragana okunuşu:</b> てんいん</div><div><b>Türkçe:</b> tezgahtar, dükkân çalışanı</div>
+泊まる	<div><b>Hiragana okunuşu:</b> とまる</div><div><b>Türkçe:</b> gecelemek, konaklamak</div>
+よろしい	<div><b>Hiragana okunuşu:</b> よろしい</div><div><b>Türkçe:</b> (saygılı) iyi, uygun, tamam</div>
+今夜	<div><b>Hiragana okunuşu:</b> こんや</div><div><b>Türkçe:</b> bu akşam, bu gece</div>
+おつり	<div><b>Hiragana okunuşu:</b> おつり</div><div><b>Türkçe:</b> para üstü</div>
+チェックする	<div><b>Hiragana okunuşu:</b> ちぇっくする</div><div><b>Türkçe:</b> hesap (restoranda vb.)</div>
+会話	<div><b>Hiragana okunuşu:</b> かいわ</div><div><b>Türkçe:</b> sohbet, konuşma</div>
+空気	<div><b>Hiragana okunuşu:</b> くうき</div><div><b>Türkçe:</b> hava, atmosfer</div>
+交通	<div><b>Hiragana okunuşu:</b> こうつう</div><div><b>Türkçe:</b> trafik, ulaşım</div>
+ワープロ	<div><b>Hiragana okunuşu:</b> わーぷろ</div><div><b>Türkçe:</b> kelime işlemci</div>
+喜ぶ	<div><b>Hiragana okunuşu:</b> よろこぶ</div><div><b>Türkçe:</b> sevinmek, mutlu olmak</div>
+急行	<div><b>Hiragana okunuşu:</b> きゅうこう</div><div><b>Türkçe:</b> ekspres tren veya otobüs</div>
+皆	<div><b>Hiragana okunuşu:</b> みな</div><div><b>Türkçe:</b> herkes</div>
+味	<div><b>Hiragana okunuşu:</b> あじ</div><div><b>Türkçe:</b> tat, lezzet</div>
+空港	<div><b>Hiragana okunuşu:</b> くうこう</div><div><b>Türkçe:</b> havaalanı</div>
+手袋	<div><b>Hiragana okunuşu:</b> てぶくろ</div><div><b>Türkçe:</b> eldiven</div>
+校長	<div><b>Hiragana okunuşu:</b> こうちょう</div><div><b>Türkçe:</b> okul müdürü</div>
+ごちそう	<div><b>Hiragana okunuşu:</b> ごちそう</div><div><b>Türkçe:</b> ziyafet; birine ikramda bulunmak</div>
+踊り	<div><b>Hiragana okunuşu:</b> おどり</div><div><b>Türkçe:</b> dans</div>
+興味	<div><b>Hiragana okunuşu:</b> きょうみ</div><div><b>Türkçe:</b> ilgi (bir şeye karşı)</div>
+引っ越す	<div><b>Hiragana okunuşu:</b> ひっこす</div><div><b>Türkçe:</b> taşınmak (yeni bir yere)</div>
+冷房	<div><b>Hiragana okunuşu:</b> れいぼう</div><div><b>Türkçe:</b> soğutma, klima</div>
+都合	<div><b>Hiragana okunuşu:</b> つごう</div><div><b>Türkçe:</b> durum, koşullar, uygunluk</div>
+遠慮	<div><b>Hiragana okunuşu:</b> えんりょする</div><div><b>Türkçe:</b> çekingenlik, tereddüt; çekinmek</div>
+亡くなる	<div><b>Hiragana okunuşu:</b> なくなる</div><div><b>Türkçe:</b> vefat etmek</div>
+科学	<div><b>Hiragana okunuşu:</b> かがく</div><div><b>Türkçe:</b> bilim</div>
+はっきり	<div><b>Hiragana okunuşu:</b> はっきり</div><div><b>Türkçe:</b> açıkça, net bir şekilde</div>
+差し上げる	<div><b>Hiragana okunuşu:</b> さしあげる</div><div><b>Türkçe:</b> あげる için alçakgönüllü ifade</div>
+気持ち	<div><b>Hiragana okunuşu:</b> きもち</div><div><b>Türkçe:</b> his, duygu, ruh hâli</div>
+祖父	<div><b>Hiragana okunuşu:</b> そふ</div><div><b>Türkçe:</b> dede</div>
+港	<div><b>Hiragana okunuşu:</b> みなと</div><div><b>Türkçe:</b> liman</div>
+予約	<div><b>Hiragana okunuşu:</b> よやく</div><div><b>Türkçe:</b> rezervasyon</div>
+凄い	<div><b>Hiragana okunuşu:</b> すごい</div><div><b>Türkçe:</b> harika, müthiş</div>
+入学	<div><b>Hiragana okunuşu:</b> にゅうがくする</div><div><b>Türkçe:</b> okula veya üniversiteye giriş</div>
+片付ける	<div><b>Hiragana okunuşu:</b> かたづける</div><div><b>Türkçe:</b> düzenlemek, toparlamak; yerine kaldırmak</div>
+写す	<div><b>Hiragana okunuşu:</b> うつす</div><div><b>Türkçe:</b> kopyalamak; fotoğraf çekmek</div>
+パソコン	<div><b>Hiragana okunuşu:</b> ぱそこん</div><div><b>Türkçe:</b> kişisel bilgisayar</div>
+部長	<div><b>Hiragana okunuşu:</b> ぶちょう</div><div><b>Türkçe:</b> bölüm müdürü</div>
+火事	<div><b>Hiragana okunuşu:</b> かじ</div><div><b>Türkçe:</b> yangın, ateş</div>
+足す	<div><b>Hiragana okunuşu:</b> たす</div><div><b>Türkçe:</b> (sayıları) toplamak</div>
+教会	<div><b>Hiragana okunuşu:</b> きょうかい</div><div><b>Türkçe:</b> kilise</div>
+彼ら	<div><b>Hiragana okunuşu:</b> かれら</div><div><b>Türkçe:</b> onlar (genellikle erkekler için)</div>
+一杯	<div><b>Hiragana okunuşu:</b> いっぱい</div><div><b>Türkçe:</b> tamamen, sonuna kadar</div>
+アメリカ	<div><b>Hiragana okunuşu:</b> あめりか</div><div><b>Türkçe:</b> Amerika, ABD</div>
+男性	<div><b>Hiragana okunuşu:</b> だんせい</div><div><b>Türkçe:</b> erkek; adam</div>
+理由	<div><b>Hiragana okunuşu:</b> りゆう</div><div><b>Türkçe:</b> neden, sebep</div>
+生産	<div><b>Hiragana okunuşu:</b> せいさんする</div><div><b>Türkçe:</b> üretim; üretmek</div>
+着物	<div><b>Hiragana okunuşu:</b> きもの</div><div><b>Türkçe:</b> kimono; geleneksel Japon giysisi</div>
+おもちゃ	<div><b>Hiragana okunuşu:</b> おもちゃ</div><div><b>Türkçe:</b> oyuncak</div>
+暮れる	<div><b>Hiragana okunuşu:</b> くれる</div><div><b>Türkçe:</b> kararmak; sona ermek</div>
+釣る	<div><b>Hiragana okunuşu:</b> つる</div><div><b>Türkçe:</b> balık tutmak</div>
+～ちゃん	<div><b>Hiragana okunuşu:</b> ～ちゃん</div><div><b>Türkçe:</b> kadınlar için kullanılan samimi hitap eki</div>
+打つ	<div><b>Hiragana okunuşu:</b> うつ</div><div><b>Türkçe:</b> vurmak, çarpmak</div>
+あんな	<div><b>Hiragana okunuşu:</b> あんな</div><div><b>Türkçe:</b> böyle, bunun gibi</div>
+謝る	<div><b>Hiragana okunuşu:</b> あやまる</div><div><b>Türkçe:</b> özür dilemek</div>
+昼間	<div><b>Hiragana okunuşu:</b> ひるま</div><div><b>Türkçe:</b> gündüz, gün içinde</div>
+教育	<div><b>Hiragana okunuşu:</b> きょういく</div><div><b>Türkçe:</b> eğitim</div>
+女性	<div><b>Hiragana okunuşu:</b> じょせい</div><div><b>Türkçe:</b> kadın</div>
+米	<div><b>Hiragana okunuşu:</b> こめ</div><div><b>Türkçe:</b> pişmemiş pirinç</div>
+邪魔	<div><b>Hiragana okunuşu:</b> じゃま</div><div><b>Türkçe:</b> engel, müdahale</div>
+国際	<div><b>Hiragana okunuşu:</b> こくさい</div><div><b>Türkçe:</b> uluslararası</div>
+隅	<div><b>Hiragana okunuşu:</b> すみ</div><div><b>Türkçe:</b> köşe</div>
+伺う	<div><b>Hiragana okunuşu:</b> うかがう</div><div><b>Türkçe:</b> 行く, 聞く ve 来る fiillerinin alçakgönüllü biçimi</div>
+再来週	<div><b>Hiragana okunuşu:</b> さらいしゅう</div><div><b>Türkçe:</b> gelecek haftadan sonraki hafta</div>
+夢	<div><b>Hiragana okunuşu:</b> ゆめ</div><div><b>Türkçe:</b> rüya, hayal</div>
+喉	<div><b>Hiragana okunuşu:</b> のど</div><div><b>Türkçe:</b> boğaz</div>
+最近	<div><b>Hiragana okunuşu:</b> さいきん</div><div><b>Türkçe:</b> son zamanlarda, bugünlerde, yakın yıllarda, en son</div>
+周り	<div><b>Hiragana okunuşu:</b> まわり</div><div><b>Türkçe:</b> çevre, etraf</div>
+歴史	<div><b>Hiragana okunuşu:</b> れきし</div><div><b>Türkçe:</b> tarih</div>
+不便	<div><b>Hiragana okunuşu:</b> ふべん</div><div><b>Türkçe:</b> zahmet, uygunsuzluk, rahatsızlık</div>
+血	<div><b>Hiragana okunuşu:</b> ち</div><div><b>Türkçe:</b> kan</div>
+～続ける	<div><b>Hiragana okunuşu:</b> ～つづける</div><div><b>Türkçe:</b> bir eylemi yapmaya devam etmek</div>
+毛	<div><b>Hiragana okunuşu:</b> け</div><div><b>Türkçe:</b> saç, tüy</div>
+ひどい	<div><b>Hiragana okunuşu:</b> ひどい</div><div><b>Türkçe:</b> korkunç, berbat, haksız, acımasız</div>
+例えば	<div><b>Hiragana okunuşu:</b> たとえば</div><div><b>Türkçe:</b> örneğin</div>
+中々	<div><b>Hiragana okunuşu:</b> なかなか</div><div><b>Türkçe:</b> oldukça, epey</div>
+随分	<div><b>Hiragana okunuşu:</b> ずいぶん</div><div><b>Türkçe:</b> son derece, aşırı derecede</div>
+～やすい	<div><b>Hiragana okunuşu:</b> ～やすい</div><div><b>Türkçe:</b> yapılması kolay</div>
+押し入れ	<div><b>Hiragana okunuşu:</b> おしいれ</div><div><b>Türkçe:</b> dolap</div>
+電灯	<div><b>Hiragana okunuşu:</b> でんとう</div><div><b>Türkçe:</b> elektrik ışığı</div>
+叱る	<div><b>Hiragana okunuşu:</b> しかる</div><div><b>Türkçe:</b> azarlamak</div>
+サンダル	<div><b>Hiragana okunuşu:</b> さんだる</div><div><b>Türkçe:</b> sandalet</div>
+びっくりする	<div><b>Hiragana okunuşu:</b> びっくりする</div><div><b>Türkçe:</b> şaşırmak</div>
+うまい	<div><b>Hiragana okunuşu:</b> うまい</div><div><b>Türkçe:</b> lezzetli; yetenekli; şanslı</div>
+変える	<div><b>Hiragana okunuşu:</b> かえる</div><div><b>Türkçe:</b> değiştirmek, farklılaştırmak</div>
+講堂	<div><b>Hiragana okunuşu:</b> こうどう</div><div><b>Türkçe:</b> konferans salonu</div>
+子	<div><b>Hiragana okunuşu:</b> こ</div><div><b>Türkçe:</b> çocuk</div>
+沸かす	<div><b>Hiragana okunuşu:</b> わかす</div><div><b>Türkçe:</b> kaynatmak</div>
+レジ	<div><b>Hiragana okunuşu:</b> れじ</div><div><b>Türkçe:</b> kayıt, sicil</div>
+しばらく	<div><b>Hiragana okunuşu:</b> しばらく</div><div><b>Türkçe:</b> kısa bir süre</div>
+特に	<div><b>Hiragana okunuşu:</b> とくに</div><div><b>Türkçe:</b> özellikle</div>
+空く	<div><b>Hiragana okunuşu:</b> あく</div><div><b>Türkçe:</b> açmak, boşalmak</div>
+計画	<div><b>Hiragana okunuşu:</b> けいかくする</div><div><b>Türkçe:</b> plan, proje, program</div>
+通り	<div><b>Hiragana okunuşu:</b> とおり</div><div><b>Türkçe:</b> ~ Caddesi, ~ Sokağı</div>
+下着	<div><b>Hiragana okunuşu:</b> したぎ</div><div><b>Türkçe:</b> iç çamaşırı</div>
+経済	<div><b>Hiragana okunuşu:</b> けいざい</div><div><b>Türkçe:</b> ekonomi, maliye</div>
+こう	<div><b>Hiragana okunuşu:</b> こう</div><div><b>Türkçe:</b> böyle, bu şekilde</div>
+是非	<div><b>Hiragana okunuşu:</b> ぜひ</div><div><b>Türkçe:</b> kesinlikle, mutlaka; şüphesiz</div>
+裏	<div><b>Hiragana okunuşu:</b> うら</div><div><b>Türkçe:</b> arka taraf, ters taraf</div>
+為	<div><b>Hiragana okunuşu:</b> ため</div><div><b>Türkçe:</b> iyi, avantaj; uğruna, amacıyla</div>
+おいでになる	<div><b>Hiragana okunuşu:</b> おいでになる</div><div><b>Türkçe:</b> (saygı ifadesi) bulunmak, olmak</div>
+変わる	<div><b>Hiragana okunuşu:</b> かわる</div><div><b>Türkçe:</b> değişmek, dönüşmek, farklılaşmak</div>
+以外	<div><b>Hiragana okunuşu:</b> いがい</div><div><b>Türkçe:</b> -den başka, hariç</div>
+済む	<div><b>Hiragana okunuşu:</b> すむ</div><div><b>Türkçe:</b> bitirmek, sona erdirmek</div>
+ハンバーグ	<div><b>Hiragana okunuşu:</b> はんばーぐ</div><div><b>Türkçe:</b> hamburger köftesi</div>
+市	<div><b>Hiragana okunuşu:</b> し</div><div><b>Türkçe:</b> şehir, kent</div>
+引き出し	<div><b>Hiragana okunuşu:</b> ひきだし</div><div><b>Türkçe:</b> çekmece</div>
+遊び	<div><b>Hiragana okunuşu:</b> あそび</div><div><b>Türkçe:</b> oyun</div>
+支度	<div><b>Hiragana okunuşu:</b> したくする</div><div><b>Türkçe:</b> hazırlık</div>
+～始める	<div><b>Hiragana okunuşu:</b> ～はじめる</div><div><b>Türkçe:</b> bir eyleme başlamak</div>
+見える	<div><b>Hiragana okunuşu:</b> みえる</div><div><b>Türkçe:</b> görünür olmak; 来る fiilinin nazik biçimi</div>
+十分	<div><b>Hiragana okunuşu:</b> じゅうぶん</div><div><b>Türkçe:</b> yeterli</div>
+音	<div><b>Hiragana okunuşu:</b> おと</div><div><b>Türkçe:</b> ses, nota</div>
+きっと	<div><b>Hiragana okunuşu:</b> きっと</div><div><b>Türkçe:</b> kesinlikle, şüphesiz, kuşkusuz</div>
+まず	<div><b>Hiragana okunuşu:</b> まず</div><div><b>Türkçe:</b> ilk olarak, başlangıçta</div>
+遠く	<div><b>Hiragana okunuşu:</b> とおく</div><div><b>Türkçe:</b> uzak</div>
+大体	<div><b>Hiragana okunuşu:</b> だいたい</div><div><b>Türkçe:</b> yaklaşık olarak; çoğu durumda; genel olarak; başlangıçtan beri</div>
+折れる	<div><b>Hiragana okunuşu:</b> おれる</div><div><b>Türkçe:</b> kırılmak, katlanmak, pes etmek; dönmek (köşede)</div>
+正しい	<div><b>Hiragana okunuşu:</b> ただしい</div><div><b>Türkçe:</b> doğru, haklı</div>
+輸入	<div><b>Hiragana okunuşu:</b> ゆにゅう</div><div><b>Türkçe:</b> ithalat</div>
+返事	<div><b>Hiragana okunuşu:</b> へんじ</div><div><b>Türkçe:</b> yanıt, cevap</div>
+都	<div><b>Hiragana okunuşu:</b> と</div><div><b>Türkçe:</b> büyükşehir, metropol</div>
+産業	<div><b>Hiragana okunuşu:</b> さんぎょう</div><div><b>Türkçe:</b> sanayi, endüstri</div>
+伝える	<div><b>Hiragana okunuşu:</b> つたえる</div><div><b>Türkçe:</b> iletmek (mesajı); söylemek, bildirmek</div>
+お金持ち	<div><b>Hiragana okunuşu:</b> かねもち; おかねもち</div><div><b>Türkçe:</b> zengin kişi</div>
+説明	<div><b>Hiragana okunuşu:</b> せつめい</div><div><b>Türkçe:</b> açıklama</div>
+島	<div><b>Hiragana okunuşu:</b> しま</div><div><b>Türkçe:</b> ada</div>
+道具	<div><b>Hiragana okunuşu:</b> どうぐ</div><div><b>Türkçe:</b> araç, alet</div>
+滑る	<div><b>Hiragana okunuşu:</b> すべる</div><div><b>Türkçe:</b> kaymak</div>
+それほど	<div><b>Hiragana okunuşu:</b> それほど</div><div><b>Türkçe:</b> o dereceye kadar; ölçüde</div>
+以上	<div><b>Hiragana okunuşu:</b> いじょう</div><div><b>Türkçe:</b> -den fazla; hepsi bu kadar</div>
+～まま	<div><b>Hiragana okunuşu:</b> ～まま</div><div><b>Türkçe:</b> olduğu gibi</div>
+特急	<div><b>Hiragana okunuşu:</b> とっきゅう</div><div><b>Türkçe:</b> ekspresten daha hızlı tren</div>
+プレゼント	<div><b>Hiragana okunuşu:</b> ぷれぜんと</div><div><b>Türkçe:</b> hediye</div>
+～(に) よると	<div><b>Hiragana okunuşu:</b> ～(に) よると</div><div><b>Türkçe:</b> ~e göre</div>
+妻	<div><b>Hiragana okunuşu:</b> つま</div><div><b>Türkçe:</b> eş (tevazu ifadesi)</div>
+帰り	<div><b>Hiragana okunuşu:</b> かえり</div><div><b>Türkçe:</b> dönüş, geri gelme</div>
+具合	<div><b>Hiragana okunuşu:</b> ぐあい</div><div><b>Türkçe:</b> durum, hâl, sağlık</div>
+堅; 硬; 固い	<div><b>Hiragana okunuşu:</b> かたい</div><div><b>Türkçe:</b> sağlam, sert, sıkı</div>
+駐車場	<div><b>Hiragana okunuşu:</b> ちゅうしゃじょう</div><div><b>Türkçe:</b> otopark</div>
+スーツ	<div><b>Hiragana okunuşu:</b> すーつ</div><div><b>Türkçe:</b> takım elbise</div>
+危険	<div><b>Hiragana okunuşu:</b> きけん</div><div><b>Türkçe:</b> tehlike, risk</div>
+髪	<div><b>Hiragana okunuşu:</b> かみ</div><div><b>Türkçe:</b> saç</div>
+天気予報	<div><b>Hiragana okunuşu:</b> てんきよほう</div><div><b>Türkçe:</b> hava tahmini</div>
+彼女	<div><b>Hiragana okunuşu:</b> かのじょ</div><div><b>Türkçe:</b> kız arkadaş; o (kadın)</div>
+間	<div><b>Hiragana okunuşu:</b> あいだ</div><div><b>Türkçe:</b> boşluk, aralık</div>
+卒業	<div><b>Hiragana okunuşu:</b> そつぎょう</div><div><b>Türkçe:</b> mezuniyet</div>
+それで	<div><b>Hiragana okunuşu:</b> それで</div><div><b>Türkçe:</b> ve; bunun üzerine; bu yüzden</div>
+枝	<div><b>Hiragana okunuşu:</b> えだ</div><div><b>Türkçe:</b> dal, ince dal</div>
+専門	<div><b>Hiragana okunuşu:</b> せんもん</div><div><b>Türkçe:</b> uzmanlık alanı</div>
+そろそろ	<div><b>Hiragana okunuşu:</b> そろそろ</div><div><b>Türkçe:</b> yavaş yavaş, kısa süre içinde</div>
+送る	<div><b>Hiragana okunuşu:</b> おくる</div><div><b>Türkçe:</b> göndermek, yollamak</div>
+あげる	<div><b>Hiragana okunuşu:</b> あげる</div><div><b>Türkçe:</b> vermek</div>
+騒ぐ	<div><b>Hiragana okunuşu:</b> さわぐ</div><div><b>Türkçe:</b> gürültü yapmak, yaygara koparmak</div>
+尋ねる	<div><b>Hiragana okunuşu:</b> たずねる</div><div><b>Türkçe:</b> sormak, soru sormak</div>
+放送	<div><b>Hiragana okunuşu:</b> ほうそうする</div><div><b>Türkçe:</b> yayıncılık</div>
+政治	<div><b>Hiragana okunuşu:</b> せいじ</div><div><b>Türkçe:</b> siyaset</div>
+市民	<div><b>Hiragana okunuşu:</b> しみん</div><div><b>Türkçe:</b> vatandaş</div>
+ファックス	<div><b>Hiragana okunuşu:</b> ふぁっくす</div><div><b>Türkçe:</b> faks</div>
+負ける	<div><b>Hiragana okunuşu:</b> まける</div><div><b>Türkçe:</b> kaybetmek (oyunda), yenilmek</div>
+指輪	<div><b>Hiragana okunuşu:</b> ゆびわ</div><div><b>Türkçe:</b> yüzük</div>
+田舎	<div><b>Hiragana okunuşu:</b> いなか</div><div><b>Türkçe:</b> kırsal bölge, taşra</div>
+見つける	<div><b>Hiragana okunuşu:</b> みつける</div><div><b>Türkçe:</b> keşfetmek, bulmak</div>
+高校生	<div><b>Hiragana okunuşu:</b> こうこうせい</div><div><b>Türkçe:</b> lise öğrencisi</div>
+講義	<div><b>Hiragana okunuşu:</b> こうぎ</div><div><b>Türkçe:</b> ders, konferans</div>
+そんなに	<div><b>Hiragana okunuşu:</b> そんなに</div><div><b>Türkçe:</b> bu kadar, böylesine</div>
+昼休み	<div><b>Hiragana okunuşu:</b> ひるやすみ</div><div><b>Türkçe:</b> öğle molası</div>
+忘れ物	<div><b>Hiragana okunuşu:</b> わすれもの</div><div><b>Türkçe:</b> kayıp eşya, unutulan şey</div>
+下りる	<div><b>Hiragana okunuşu:</b> おりる</div><div><b>Türkçe:</b> inmek, aşağı inmek</div>
+腕	<div><b>Hiragana okunuşu:</b> うで</div><div><b>Türkçe:</b> kol (vücut parçası)</div>
+訳	<div><b>Hiragana okunuşu:</b> わけ</div><div><b>Türkçe:</b> neden; açıklama</div>
+承知	<div><b>Hiragana okunuşu:</b> しょうちする</div><div><b>Türkçe:</b> onay, kabul</div>
+日記	<div><b>Hiragana okunuşu:</b> にっき</div><div><b>Türkçe:</b> günlük</div>
+高校; 高等学校	<div><b>Hiragana okunuşu:</b> こうこう; こうとうがっこう</div><div><b>Türkçe:</b> lise</div>
+似る	<div><b>Hiragana okunuşu:</b> にる</div><div><b>Türkçe:</b> benzemek, benzer olmak</div>
+～おわる	<div><b>Hiragana okunuşu:</b> ～おわる</div><div><b>Türkçe:</b> bir şeyi yapmayı bitirmek</div>
+暖房	<div><b>Hiragana okunuşu:</b> だんぼう</div><div><b>Türkçe:</b> ısıtma</div>
+留守	<div><b>Hiragana okunuşu:</b> るす</div><div><b>Türkçe:</b> yokluk; evde olmama durumu</div>
+割合	<div><b>Hiragana okunuşu:</b> わりあい</div><div><b>Türkçe:</b> oran, yüzde</div>
+寺	<div><b>Hiragana okunuşu:</b> てら</div><div><b>Türkçe:</b> Budist tapınağı</div>
+慣れる	<div><b>Hiragana okunuşu:</b> なれる</div><div><b>Türkçe:</b> alışmak</div>
+普通	<div><b>Hiragana okunuşu:</b> ふつう</div><div><b>Türkçe:</b> yaygın; olağan</div>
+手伝う	<div><b>Hiragana okunuşu:</b> てつだう</div><div><b>Türkçe:</b> yardım etmek</div>
+なるほど	<div><b>Hiragana okunuşu:</b> なるほど</div><div><b>Türkçe:</b> anlıyorum; şimdi anladım</div>
+くださる	<div><b>Hiragana okunuşu:</b> くださる</div><div><b>Türkçe:</b> vermek (saygı ifadesi)</div>
+息子	<div><b>Hiragana okunuşu:</b> むすこ</div><div><b>Türkçe:</b> oğul (alçakgönüllü ifade)</div>
+お子さん	<div><b>Hiragana okunuşu:</b> おこさん</div><div><b>Türkçe:</b> çocuk (başkasına ait, nazik ifade)</div>
+会場	<div><b>Hiragana okunuşu:</b> かいじょう</div><div><b>Türkçe:</b> mekân, buluşma yeri</div>
+笑う	<div><b>Hiragana okunuşu:</b> わらう</div><div><b>Türkçe:</b> gülmek, gülümsemek</div>
+運ぶ	<div><b>Hiragana okunuşu:</b> はこぶ</div><div><b>Türkçe:</b> taşımak, nakletmek</div>
+文学	<div><b>Hiragana okunuşu:</b> ぶんがく</div><div><b>Türkçe:</b> edebiyat</div>
+光	<div><b>Hiragana okunuşu:</b> ひかり</div><div><b>Türkçe:</b> ışık</div>
+お見舞い	<div><b>Hiragana okunuşu:</b> おみまい</div><div><b>Türkçe:</b> hasta ziyareti</div>
+席	<div><b>Hiragana okunuşu:</b> せき</div><div><b>Türkçe:</b> koltuk, oturacak yer</div>
+～様	<div><b>Hiragana okunuşu:</b> ～さま</div><div><b>Türkçe:</b> Sayın, Bay/Bayan</div>
+ご存じ	<div><b>Hiragana okunuşu:</b> ごぞんじ</div><div><b>Türkçe:</b> tanıdık, bildik kimse</div>
+下る	<div><b>Hiragana okunuşu:</b> さがる</div><div><b>Türkçe:</b> inmek, düşmek</div>
+字	<div><b>Hiragana okunuşu:</b> じ</div><div><b>Türkçe:</b> harf; karakter</div>
+アジア	<div><b>Hiragana okunuşu:</b> あじあ</div><div><b>Türkçe:</b> Asya</div>
+褒める	<div><b>Hiragana okunuşu:</b> ほめる</div><div><b>Türkçe:</b> övmek; güzel şeyler söylemek</div>
+空く	<div><b>Hiragana okunuşu:</b> すく</div><div><b>Türkçe:</b> boş olmak (insanlar için), tenha olmak</div>
+あ	<div><b>Hiragana okunuşu:</b> あ</div><div><b>Türkçe:</b> Ah</div>
+最も	<div><b>Hiragana okunuşu:</b> もっとも</div><div><b>Türkçe:</b> en çok, çoğunlukla</div>
+合う	<div><b>Hiragana okunuşu:</b> あう</div><div><b>Türkçe:</b> uymak, eşleşmek</div>
+～代	<div><b>Hiragana okunuşu:</b> ～だい</div><div><b>Türkçe:</b> ~ yaşı; dönem</div>
+最後	<div><b>Hiragana okunuşu:</b> さいご</div><div><b>Türkçe:</b> son, bitiş</div>
+値段	<div><b>Hiragana okunuşu:</b> ねだん</div><div><b>Türkçe:</b> fiyat</div>
+退院	<div><b>Hiragana okunuşu:</b> たいいんする</div><div><b>Türkçe:</b> hastaneden taburcu olma</div>
+展覧会	<div><b>Hiragana okunuşu:</b> てんらんかい</div><div><b>Türkçe:</b> sergi</div>
+久しぶり	<div><b>Hiragana okunuşu:</b> ひさしぶり</div><div><b>Türkçe:</b> uzun zaman oldu; uzun zamandan beri ilk kez</div>
+カーテン	<div><b>Hiragana okunuşu:</b> かーてん</div><div><b>Türkçe:</b> perde</div>
+汽車	<div><b>Hiragana okunuşu:</b> きしゃ</div><div><b>Türkçe:</b> buharlı tren</div>
+遅れる	<div><b>Hiragana okunuşu:</b> おくれる</div><div><b>Türkçe:</b> gecikmek</div>
+見つかる	<div><b>Hiragana okunuşu:</b> みつかる</div><div><b>Türkçe:</b> bulunmak, keşfedilmek</div>
+召し上がる	<div><b>Hiragana okunuşu:</b> めしあがる</div><div><b>Türkçe:</b> 食べる ve 飲む fiillerinin saygı ifadesi</div>
+太る	<div><b>Hiragana okunuşu:</b> ふとる</div><div><b>Türkçe:</b> kilo almak</div>
+注射	<div><b>Hiragana okunuşu:</b> ちゅうしゃ</div><div><b>Türkçe:</b> iğne (enjeksiyon)</div>
+様	<div><b>Hiragana okunuşu:</b> よう</div><div><b>Türkçe:</b> yol, tarz, biçim, tür</div>
+～おき	<div><b>Hiragana okunuşu:</b> ～おき</div><div><b>Türkçe:</b> her ~ sonrasında</div>
+最初	<div><b>Hiragana okunuşu:</b> さいしょ</div><div><b>Türkçe:</b> başlangıç, ilk</div>
+御～	<div><b>Hiragana okunuşu:</b> ご～</div><div><b>Türkçe:</b> saygıdeğer ~</div>
+安心	<div><b>Hiragana okunuşu:</b> あんしん</div><div><b>Türkçe:</b> gönül rahatlığı, iç huzur</div>
+直る	<div><b>Hiragana okunuşu:</b> なおる</div><div><b>Türkçe:</b> onarılmak, tamir edilmek</div>
+集める	<div><b>Hiragana okunuşu:</b> あつめる</div><div><b>Türkçe:</b> toplamak, bir araya getirmek</div>
+直す	<div><b>Hiragana okunuşu:</b> なおす</div><div><b>Türkçe:</b> düzeltmek; onarmak</div>
+続く	<div><b>Hiragana okunuşu:</b> つづく</div><div><b>Türkçe:</b> devam edecek</div>
+先輩	<div><b>Hiragana okunuşu:</b> せんぱい</div><div><b>Türkçe:</b> bir gruptaki kıdemli üyeler</div>
+約束	<div><b>Hiragana okunuşu:</b> やくそく</div><div><b>Türkçe:</b> düzenleme, randevu, söz</div>
+世話	<div><b>Hiragana okunuşu:</b> せわする</div><div><b>Türkçe:</b> bakım, ilgilenme; ilgilenmek</div>
+近所	<div><b>Hiragana okunuşu:</b> きんじょ</div><div><b>Türkçe:</b> çevre, mahalle</div>
+将来	<div><b>Hiragana okunuşu:</b> しょうらい</div><div><b>Türkçe:</b> gelecek; beklentiler</div>
+億	<div><b>Hiragana okunuşu:</b> おく</div><div><b>Türkçe:</b> yüz milyon</div>
+数学	<div><b>Hiragana okunuşu:</b> すうがく</div><div><b>Türkçe:</b> matematik</div>
+文化	<div><b>Hiragana okunuşu:</b> ぶんか</div><div><b>Türkçe:</b> kültür</div>
+払う	<div><b>Hiragana okunuşu:</b> はらう</div><div><b>Türkçe:</b> ödemek</div>
+習慣	<div><b>Hiragana okunuşu:</b> しゅうかん</div><div><b>Türkçe:</b> gelenek, âdet (kültür bağlamında)</div>
+焼ける	<div><b>Hiragana okunuşu:</b> やける</div><div><b>Türkçe:</b> yanmak, kavrulmak</div>
+君	<div><b>Hiragana okunuşu:</b> きみ</div><div><b>Türkçe:</b> sen (erkekler için gayriresmî)</div>
+冷える	<div><b>Hiragana okunuşu:</b> ひえる</div><div><b>Türkçe:</b> soğumak</div>
+点く	<div><b>Hiragana okunuşu:</b> つく</div><div><b>Türkçe:</b> başlatılmak, açılmak (cihaz vb.)</div>
+この間	<div><b>Hiragana okunuşu:</b> このあいだ</div><div><b>Türkçe:</b> geçen gün, yakın zamanda</div>
+格好	<div><b>Hiragana okunuşu:</b> かっこう</div><div><b>Türkçe:</b> görünüş, tavır, şekil, biçim, duruş</div>
+かまう	<div><b>Hiragana okunuşu:</b> かまう</div><div><b>Türkçe:</b> önemsemek, dert etmek, ilgilenmek</div>
+続ける	<div><b>Hiragana okunuşu:</b> つづける</div><div><b>Türkçe:</b> devam etmek, sürdürmek</div>
+落す	<div><b>Hiragana okunuşu:</b> おとす</div><div><b>Türkçe:</b> düşürmek, kaybetmek</div>
+明日	<div><b>Hiragana okunuşu:</b> あす</div><div><b>Türkçe:</b> yarın</div>
+出発	<div><b>Hiragana okunuşu:</b> しゅっぱつする</div><div><b>Türkçe:</b> ayrılış, hareket</div>
+拝見	<div><b>Hiragana okunuşu:</b> はいけんする</div><div><b>Türkçe:</b> bakmak (alçakgönüllü/nazik ifade)</div>
+割れる	<div><b>Hiragana okunuşu:</b> われる</div><div><b>Türkçe:</b> kırmak, parçalamak</div>
+背中	<div><b>Hiragana okunuşu:</b> せなか</div><div><b>Türkçe:</b> sırt (vücut kısmı)</div>
+新聞社	<div><b>Hiragana okunuşu:</b> しんぶんしゃ</div><div><b>Türkçe:</b> gazete şirketi</div>
+いじめる	<div><b>Hiragana okunuşu:</b> いじめる</div><div><b>Türkçe:</b> zorbalık etmek, eziyet etmek</div>
+回る、回す	<div><b>Hiragana okunuşu:</b> まわる、まわす</div><div><b>Türkçe:</b> dolaşmak, etrafında dönmek</div>
+～君	<div><b>Hiragana okunuşu:</b> ～くん</div><div><b>Türkçe:</b> -bey (genç erkekler için); usta</div>
+おっしゃる	<div><b>Hiragana okunuşu:</b> おっしゃる</div><div><b>Türkçe:</b> いう fiili için saygı ifadesi</div>
+眠い	<div><b>Hiragana okunuşu:</b> ねむい</div><div><b>Türkçe:</b> uykulu, uykusu gelmiş</div>
+濡れる	<div><b>Hiragana okunuşu:</b> ぬれる</div><div><b>Türkçe:</b> ıslanmak</div>
+倒れる	<div><b>Hiragana okunuşu:</b> たおれる</div><div><b>Türkçe:</b> çökmek, yıkılmak</div>
+スーパー (マーケット)	<div><b>Hiragana okunuşu:</b> すーぱー (まーけっと)</div><div><b>Türkçe:</b> süpermarket</div>
+アクセサリー	<div><b>Hiragana okunuşu:</b> あくせさりー</div><div><b>Türkçe:</b> aksesuar</div>
+考える	<div><b>Hiragana okunuşu:</b> かんがえる</div><div><b>Türkçe:</b> düşünmek; değerlendirmek</div>
+向かう	<div><b>Hiragana okunuşu:</b> むかう</div><div><b>Türkçe:</b> yönelmek, -e doğru gitmek</div>
+自由	<div><b>Hiragana okunuşu:</b> じゆう</div><div><b>Türkçe:</b> özgürlük</div>
+仕方	<div><b>Hiragana okunuşu:</b> しかた</div><div><b>Türkçe:</b> yol, yöntem (bir şeyi yapma biçimi)</div>
+首	<div><b>Hiragana okunuşu:</b> くび</div><div><b>Türkçe:</b> boyun</div>
+程	<div><b>Hiragana okunuşu:</b> ほど</div><div><b>Türkçe:</b> derece, ölçü, kapsam</div>
+代わり	<div><b>Hiragana okunuşu:</b> かわり</div><div><b>Türkçe:</b> yedek, yerine geçen şey</div>
+失敗	<div><b>Hiragana okunuşu:</b> しっぱい</div><div><b>Türkçe:</b> başarısızlık, hata</div>
+工業	<div><b>Hiragana okunuşu:</b> こうぎょう</div><div><b>Türkçe:</b> sanayi, endüstri</div>
+移る	<div><b>Hiragana okunuşu:</b> うつる</div><div><b>Türkçe:</b> taşınmak (ev değiştirmek); başka bölüme geçmek; yer değiştirmek</div>
+スーツケース	<div><b>Hiragana okunuşu:</b> すーつけーす</div><div><b>Türkçe:</b> bavul</div>
+ひげ	<div><b>Hiragana okunuşu:</b> ひげ</div><div><b>Türkçe:</b> sakal</div>
+研究室	<div><b>Hiragana okunuşu:</b> けんきゅうしつ</div><div><b>Türkçe:</b> profesörün ofisi; laboratuvar</div>
+工場	<div><b>Hiragana okunuşu:</b> こうじょう</div><div><b>Türkçe:</b> fabrika</div>
+紹介	<div><b>Hiragana okunuşu:</b> しょうかい</div><div><b>Türkçe:</b> tanışma, giriş, takdim</div>
+けれど; けれども	<div><b>Hiragana okunuşu:</b> けれど; けれども</div><div><b>Türkçe:</b> ama, fakat, buna rağmen</div>
+舟	<div><b>Hiragana okunuşu:</b> ふね</div><div><b>Türkçe:</b> gemi, tekne</div>
+動く	<div><b>Hiragana okunuşu:</b> うごく</div><div><b>Türkçe:</b> hareket etmek, yer değiştirmek</div>
+～(に) ついて	<div><b>Hiragana okunuşu:</b> ～(に) ついて</div><div><b>Türkçe:</b> hakkında, ile ilgili</div>
+コンサート	<div><b>Hiragana okunuşu:</b> こんさーと</div><div><b>Türkçe:</b> konser</div>
+虫	<div><b>Hiragana okunuşu:</b> むし</div><div><b>Türkçe:</b> böcek</div>
+優しい	<div><b>Hiragana okunuşu:</b> やさしい</div><div><b>Türkçe:</b> nazik (kişi), kibar (kişi); kolay (sorun vb.)</div>
+コンピュータ; コンピューター	<div><b>Hiragana okunuşu:</b> こんぴゅーた; こんぴゅーたー</div><div><b>Türkçe:</b> bilgisayar</div>
+植える	<div><b>Hiragana okunuşu:</b> うえる</div><div><b>Türkçe:</b> dikmek (bitki vb.)</div>
+両方	<div><b>Hiragana okunuşu:</b> りょうほう</div><div><b>Türkçe:</b> her iki taraf</div>
+汚れる	<div><b>Hiragana okunuşu:</b> よごれる</div><div><b>Türkçe:</b> kirlenmek</div>
+水泳	<div><b>Hiragana okunuşu:</b> すいえい</div><div><b>Türkçe:</b> yüzme</div>
+経験	<div><b>Hiragana okunuşu:</b> けいけんする</div><div><b>Türkçe:</b> deneyim, tecrübe</div>
+勝つ	<div><b>Hiragana okunuşu:</b> かつ</div><div><b>Türkçe:</b> kazanmak</div>
+砂	<div><b>Hiragana okunuşu:</b> すな</div><div><b>Türkçe:</b> kum</div>
+警察	<div><b>Hiragana okunuşu:</b> けいさつ</div><div><b>Türkçe:</b> polis; polis merkezi</div>
+取り替える	<div><b>Hiragana okunuşu:</b> とりかえる</div><div><b>Türkçe:</b> değiştirmek, takas etmek</div>
+急ぐ	<div><b>Hiragana okunuşu:</b> いそぐ</div><div><b>Türkçe:</b> acele etmek, telaşlanmak</div>
+簡単	<div><b>Hiragana okunuşu:</b> かんたん</div><div><b>Türkçe:</b> basit, sade</div>
+参る	<div><b>Hiragana okunuşu:</b> まいる</div><div><b>Türkçe:</b> 行く ve 来る fiilleri için alçakgönüllü ifade</div>
+全然	<div><b>Hiragana okunuşu:</b> ぜんぜん</div><div><b>Türkçe:</b> hiç de değil; tamamen, bütünüyle</div>
+特別	<div><b>Hiragana okunuşu:</b> とくべつ</div><div><b>Türkçe:</b> özel</div>
+復習	<div><b>Hiragana okunuşu:</b> ふくしゅう</div><div><b>Türkçe:</b> tekrar, gözden geçirme (ders vb.)</div>
+間に合う	<div><b>Hiragana okunuşu:</b> まにあう</div><div><b>Türkçe:</b> yetişmek (bir yere/zamana)</div>
+役に立つ	<div><b>Hiragana okunuşu:</b> やくにたつ</div><div><b>Türkçe:</b> yardımcı olmak, işe yaramak</div>
+もうすぐ	<div><b>Hiragana okunuşu:</b> もうすぐ</div><div><b>Türkçe:</b> çok yakında; birazdan; birkaç gün içinde</div>
+真中	<div><b>Hiragana okunuşu:</b> まんなか</div><div><b>Türkçe:</b> orta, merkez</div>
+戻る	<div><b>Hiragana okunuşu:</b> もどる</div><div><b>Türkçe:</b> geri dönmek</div>
+研究	<div><b>Hiragana okunuşu:</b> けんきゅう</div><div><b>Türkçe:</b> çalışma, araştırma, inceleme</div>
+ケーキ	<div><b>Hiragana okunuşu:</b> けーき</div><div><b>Türkçe:</b> kek, pasta</div>
+草	<div><b>Hiragana okunuşu:</b> くさ</div><div><b>Türkçe:</b> ot, çimen</div>
+込む	<div><b>Hiragana okunuşu:</b> こむ</div><div><b>Türkçe:</b> kalabalık olmak</div>
+この頃	<div><b>Hiragana okunuşu:</b> このごろ</div><div><b>Türkçe:</b> bugünlerde, günümüzde</div>
+訪ねる	<div><b>Hiragana okunuşu:</b> たずねる</div><div><b>Türkçe:</b> ziyaret etmek</div>
+下げる	<div><b>Hiragana okunuşu:</b> さげる</div><div><b>Türkçe:</b> indirmek, aşağı çekmek, asmak</div>
+花見	<div><b>Hiragana okunuşu:</b> はなみ</div><div><b>Türkçe:</b> kiraz çiçeği izleme</div>
+途中	<div><b>Hiragana okunuşu:</b> とちゅう</div><div><b>Türkçe:</b> yol üzerinde, yarı yolda</div>
+入院	<div><b>Hiragana okunuşu:</b> にゅういんする</div><div><b>Türkçe:</b> hastaneye yatış</div>
+乗り換える	<div><b>Hiragana okunuşu:</b> のりかえる</div><div><b>Türkçe:</b> aktarma yapmak (tren, otobüs vb. değiştirmek)</div>
+別れる	<div><b>Hiragana okunuşu:</b> わかれる</div><div><b>Türkçe:</b> ayrılmak</div>
+～町	<div><b>Hiragana okunuşu:</b> ～ちょう</div><div><b>Türkçe:</b> ~ kasabası/şehri</div>
+安全	<div><b>Hiragana okunuşu:</b> あんぜん</div><div><b>Türkçe:</b> güvenlik, emniyet</div>
+看護婦	<div><b>Hiragana okunuşu:</b> かんごふ</div><div><b>Türkçe:</b> hemşire (kadın)</div>
+見物	<div><b>Hiragana okunuşu:</b> けんぶつ</div><div><b>Türkçe:</b> gezi, turistik gezi</div>
+相談	<div><b>Hiragana okunuşu:</b> そうだんする</div><div><b>Türkçe:</b> muayene, danışma</div>
+ガソリンスタンド	<div><b>Hiragana okunuşu:</b> がそりんすたんど</div><div><b>Türkçe:</b> benzin istasyonu</div>
+テニス	<div><b>Hiragana okunuşu:</b> てにす</div><div><b>Türkçe:</b> tenis</div>
+眠る	<div><b>Hiragana okunuşu:</b> ねむる</div><div><b>Türkçe:</b> uyumak</div>
+上がる	<div><b>Hiragana okunuşu:</b> あがる</div><div><b>Türkçe:</b> kalkmak, yükselmek</div>
+翻訳	<div><b>Hiragana okunuşu:</b> ほんやく</div><div><b>Türkçe:</b> çeviri</div>
+食事	<div><b>Hiragana okunuşu:</b> しょくじする</div><div><b>Türkçe:</b> öğün, yemek</div>
+お陰	<div><b>Hiragana okunuşu:</b> おかげ</div><div><b>Türkçe:</b> sayesinde, nedeniyle</div>
+娘	<div><b>Hiragana okunuşu:</b> むすめ</div><div><b>Türkçe:</b> kız evlat (alçakgönüllü ifade)</div>
+湯	<div><b>Hiragana okunuşu:</b> ゆ</div><div><b>Türkçe:</b> sıcak su</div>
+競争	<div><b>Hiragana okunuşu:</b> きょうそう</div><div><b>Türkçe:</b> yarışma, müsabaka</div>
+会議	<div><b>Hiragana okunuşu:</b> かいぎ</div><div><b>Türkçe:</b> iş toplantısı; konferans</div>
+湖	<div><b>Hiragana okunuşu:</b> みずうみ</div><div><b>Türkçe:</b> göl</div>
+集まる	<div><b>Hiragana okunuşu:</b> あつまる</div><div><b>Türkçe:</b> toplanmak (kendiliğinden)</div>
+～にくい	<div><b>Hiragana okunuşu:</b> ～にくい</div><div><b>Türkçe:</b> yapılması zor ~</div>
+生活	<div><b>Hiragana okunuşu:</b> せいかつする</div><div><b>Türkçe:</b> yaşam, hayat; yaşamak</div>
+糸	<div><b>Hiragana okunuşu:</b> いと</div><div><b>Türkçe:</b> iplik</div>
+関係	<div><b>Hiragana okunuşu:</b> かんけい</div><div><b>Türkçe:</b> ilişki, bağlantı</div>
+ピアノ	<div><b>Hiragana okunuşu:</b> ぴあの</div><div><b>Türkçe:</b> piyano</div>
+～目	<div><b>Hiragana okunuşu:</b> ～め</div><div><b>Türkçe:</b> sıra, dizi; -inci (sıra sayısı eki)</div>
+番組	<div><b>Hiragana okunuşu:</b> ばんぐみ</div><div><b>Türkçe:</b> yayın programı</div>
+急	<div><b>Hiragana okunuşu:</b> きゅう</div><div><b>Türkçe:</b> acil, ani; dik</div>
+棚	<div><b>Hiragana okunuşu:</b> たな</div><div><b>Türkçe:</b> raflar, raf</div>
+木綿	<div><b>Hiragana okunuşu:</b> もめん</div><div><b>Türkçe:</b> pamuk</div>
+輸出	<div><b>Hiragana okunuşu:</b> ゆしゅつする</div><div><b>Türkçe:</b> ihracat</div>
+タイプ	<div><b>Hiragana okunuşu:</b> たいぷ</div><div><b>Türkçe:</b> tür, tarz</div>
+すり	<div><b>Hiragana okunuşu:</b> すり</div><div><b>Türkçe:</b> yankesici</div>
+嬉しい	<div><b>Hiragana okunuşu:</b> うれしい</div><div><b>Türkçe:</b> mutlu olmak; memnun olmak</div>
+アルコール	<div><b>Hiragana okunuşu:</b> あるこーる</div><div><b>Türkçe:</b> alkol</div>
+ソフト	<div><b>Hiragana okunuşu:</b> そふと</div><div><b>Türkçe:</b> yumuşak; yumuşak şapka; yazılım</div>
+神社	<div><b>Hiragana okunuşu:</b> じんじゃ</div><div><b>Türkçe:</b> Şinto tapınağı</div>
+大分	<div><b>Hiragana okunuşu:</b> だいぶ</div><div><b>Türkçe:</b> oldukça, epey, önemli ölçüde</div>
+楽しみ	<div><b>Hiragana okunuşu:</b> たのしみ</div><div><b>Türkçe:</b> zevk, neşe</div>
+趣味	<div><b>Hiragana okunuşu:</b> しゅみ</div><div><b>Türkçe:</b> hobi; boş zaman uğraşı</div>
+電報	<div><b>Hiragana okunuşu:</b> でんぽう</div><div><b>Türkçe:</b> telgraf</div>
+家内	<div><b>Hiragana okunuşu:</b> かない</div><div><b>Türkçe:</b> (kendi) eşi (kadın)</div>
+指	<div><b>Hiragana okunuşu:</b> ゆび</div><div><b>Türkçe:</b> parmak</div>
+これから	<div><b>Hiragana okunuşu:</b> これから</div><div><b>Türkçe:</b> bundan sonra, bundan böyle</div>
+たまに	<div><b>Hiragana okunuşu:</b> たまに</div><div><b>Türkçe:</b> ara sıra</div>
+社会	<div><b>Hiragana okunuşu:</b> しゃかい</div><div><b>Türkçe:</b> toplum</div>
